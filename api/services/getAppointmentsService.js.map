@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "getAppointmentsService.js",
+  "sourceRoot": "",
+  "sources": [
+    "getAppointmentsService.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA;;;;;;;;;;;;;;;;;;;;;AAAA;;AAAA"
+}

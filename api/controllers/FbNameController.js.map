@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "FbNameController.js",
+  "sourceRoot": "",
+  "sources": [
+    "FbNameController.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAKA;EAAA,MAAM,CAAC,OAAP,GAME;IAAA,GAAA,EAAK,SAAC,GAAD,EAAM,GAAN;aACH,GAAG,CAAC,IAAJ,CACE;QAAA,KAAA,EAAO,GAAG,CAAC,KAAK,CAAC,KAAjB;QACA,KAAA,EAAO,GAAG,CAAC,KAAK,CAAC,KADjB;OADF;IADG,CAAL;;AANF"
+}

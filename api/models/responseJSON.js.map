@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "responseJSON.js",
+  "sourceRoot": "",
+  "sources": [
+    "responseJSON.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;AAAA"
+}

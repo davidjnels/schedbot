@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "GetAppointmentsController.js",
+  "sourceRoot": "",
+  "sources": [
+    "GetAppointmentsController.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAKA;EAAA,MAAM,CAAC,OAAP,GAME;IAAA,QAAA,EAAU,SAAC,GAAD,EAAM,GAAN;aACR,GAAG,CAAC,IAAJ,CACE;QAAA,IAAA,EAAM,oCAAN;OADF;IADQ,CAAV;;AANF"
+}
